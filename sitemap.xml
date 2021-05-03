@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://me.ruakio.com/about/</loc>
+    
+    <lastmod>2021-05-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://me.ruakio.com/2021/wings-601a-14k-evaluation/</loc>
     
     <lastmod>2021-05-03</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://me.ruakio.com/2021/angularjs-git-commit-message-conventions-translation/</loc>
-    
-    <lastmod>2021-05-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://me.ruakio.com/about/</loc>
     
     <lastmod>2021-05-02</lastmod>
     
